@@ -1,4 +1,4 @@
-package uz.example.bean_lab;
+package uz.example.beanlab;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
