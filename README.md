@@ -4,9 +4,6 @@ A small Spring Boot project built to close a specific development gap: my explan
 
 Every claim in this document is backed by a test in this repository. Where I made a prediction before running an experiment, I recorded the prediction and kept it even when it was wrong.
 
-**Author:** [Your name]
-**Period:** [start date] – [end date]
-**Spring Boot:** 3.5.x · **Java:** 21
 
 ---
 
